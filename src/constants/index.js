@@ -184,7 +184,7 @@ const testimonials = [
   },
   {
     testimonial:
-      'Eskinder is an exceptional AI expert, demonstrating unmatched talent in research, critical thinking, and harnessing PyTorch and Keras to their fullest potential.',
+      'Rukshan is an exceptional html.&.js, demonstrating unmatched talent in research, critical thinking, and harnessing PyTorch and Keras to their fullest potential.',
     name: 'Zakaria El Moutaki',
     designation: 'Standardization Researcher',
     company: 'Ericsson',
