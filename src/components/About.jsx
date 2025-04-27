@@ -37,21 +37,14 @@ const About = () => {
     <>
       <motion.div variants={textVariant()}>
         <p className={styles.sectionSubText}>Introduction</p>
-        <h2 className={styles.sectionHeadText}>Overview.</h2>
+        <h2 className={styles.sectionHeadText}>I AM Html g Js Coder.</h2>
       </motion.div>
 
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
-      >
-        As a seasoned AI Engineer proficient in Python and Machine Learning, I
-        bring a wealth of experience and a proven track record in successfully
-        executing large-scale projects. With a strong foundation in cutting-edge
-        algorithms, I am eager to join a top-tier AI development team. Together,
-        we can tackle complex AI challenges and drive innovation to new heights.
-        Let's shape the future of artificial intelligence and create
-        extraordinary solutions.
-      </motion.p>
+      >HTML and JavaScript are two important technologies for building websites. HTML (HyperText Markup Language) is used to create the structure of a webpage, organizing text, images, buttons, and links. It acts like the skeleton that holds everything together. JavaScript, on the other hand, brings life to the webpage by adding interactivity. With JavaScript, websites can respond to user actions like clicks, typing, and scrolling. While HTML defines what is shown, JavaScript defines how it behaves. Together, they create websites that are both informative and dynamic, making the internet a more engaging place.
+</motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
         {services.map((service, index) => (
